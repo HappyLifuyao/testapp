@@ -1,0 +1,11 @@
+/Users/lifuyao/Desktop/testapp/bin/Debug/netcoreapp2.2/testapp.deps.json
+/Users/lifuyao/Desktop/testapp/bin/Debug/netcoreapp2.2/testapp.runtimeconfig.json
+/Users/lifuyao/Desktop/testapp/bin/Debug/netcoreapp2.2/testapp.runtimeconfig.dev.json
+/Users/lifuyao/Desktop/testapp/bin/Debug/netcoreapp2.2/testapp.dll
+/Users/lifuyao/Desktop/testapp/bin/Debug/netcoreapp2.2/testapp.pdb
+/Users/lifuyao/Desktop/testapp/obj/Debug/netcoreapp2.2/testapp.csprojAssemblyReference.cache
+/Users/lifuyao/Desktop/testapp/obj/Debug/netcoreapp2.2/testapp.csproj.CoreCompileInputs.cache
+/Users/lifuyao/Desktop/testapp/obj/Debug/netcoreapp2.2/testapp.AssemblyInfoInputs.cache
+/Users/lifuyao/Desktop/testapp/obj/Debug/netcoreapp2.2/testapp.AssemblyInfo.cs
+/Users/lifuyao/Desktop/testapp/obj/Debug/netcoreapp2.2/testapp.dll
+/Users/lifuyao/Desktop/testapp/obj/Debug/netcoreapp2.2/testapp.pdb
